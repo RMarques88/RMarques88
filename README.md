@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👨‍💻 Desenvolvedor Full Stack | Infraestrutura & DevOps | Linux Enthusiast
 
-<!--
-**RMarques88/RMarques88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil!
 
-Here are some ideas to get you started:
+Sou um profissional de TI com sólida experiência em **desenvolvimento web**, **infraestrutura Linux** e **automação de processos**. Atuo tanto no back-end quanto no front-end, sempre com foco em desempenho, segurança e escalabilidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias e Stacks
+
+### 💻 Linguagens e Back-End
+- PHP • JavaScript • Go • C# • SQL
+
+### 🖥️ Front-End & Web
+- HTML5 • CSS3 • AJAX • jQuery
+- WordPress • Moodle • WooCommerce
+
+### 🔧 Infraestrutura e DevOps
+- Linux (Debian/Ubuntu)
+- Proxmox VE (virtualização)
+- Zabbix • Grafana • OCS Inventory • GLPI
+
+### 🎮 Game Dev
+- Unity3D • Construct 2 / 3
+
+---
+
+## 🛠️ Projetos e Áreas de Atuação
+
+- Desenvolvimento de sistemas web sob demanda
+- Integração com APIs e automação de processos
+- Monitoramento de redes e ativos de TI
+- Gestão de infraestrutura virtualizada (on-premise)
+- Integrações com dispositivos (ex: câmeras IP, UCM Grandstream)
+
+---
+
+## 🧠 Competências
+
+- Full Stack Development
+- Virtualização e Monitoramento
+- Segurança da Informação
+- Suporte técnico e redes
+- Ambientes educacionais digitais
