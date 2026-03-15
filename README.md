@@ -8,8 +8,11 @@ Sou um profissional de TI com sólida experiência em **desenvolvimento web**, *
 
 ## 🚀 Tecnologias e Stacks
 
-### 💻 Linguagens e Back-End
-- PHP • JavaScript • Go • C# • SQL + TypeScript (Estudando com o software GelatoProd)
+### 💻 Linguagens
+PHP • JavaScript • TypeScript • Go • C# • SQL
+
+### ⚙️ Back-End
+APIs REST • Integrações • Automação • Processamento de dados
 
 ### 🖥️ Front-End & Web
 - HTML5 • CSS3 • AJAX • jQuery
